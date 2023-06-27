@@ -11,6 +11,6 @@ Created interactive Dashboard to track and analyze online sales data
 
 ## Used Tools
 ![image](https://github.com/Pranavdixitofficial/Music_Store_datanalysis/assets/107533502/a8aa0375-ff10-4ec3-85bc-0becb8606cee)
-![image](https://github.com/Pranavdixitofficial/E-Commerce_sales_analysis/assets/107533502/af453601-75e4-4121-9593-31289fde1784)
+![image](https://github.com/Pranavdixitofficial/E-Commerce_sales_analysis/assets/107533502/fb22356d-d337-44e9-a5f8-d7841623d5b0)
 
 
